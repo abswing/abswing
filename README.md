@@ -86,7 +86,6 @@ Me chamo Antônio Bernardo, tenho 19 anos e sou estudante  de Análise e Desenvo
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 
 <p>
