@@ -85,6 +85,7 @@ Me chamo Antônio Bernardo, tenho 19 anos e sou estudante  de Análise e Desenvo
 ### 📊 Estatísticas
 
 <p>
+    
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -98,5 +99,7 @@ Me chamo Antônio Bernardo, tenho 19 anos e sou estudante  de Análise e Desenvo
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abswing&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
 />
+    
 </p>
----
+<br/>
+
