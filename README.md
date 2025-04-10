@@ -4,14 +4,13 @@
 
 Me chamo Antônio Bernardo, tenho 19 anos e sou estudante  de Análise e Desenvolvimento de Sistemas na UniSenac. Estou em fase de aprendizado e cada dia mais interessado pelo universo da tecnologia. Gosto de explorar novas linguagens, ferramentas e entender como tudo funciona por trás dos sistemas que usamos no dia a dia. Estou construindo minha jornada passo a passo, sempre buscando aprender, evoluir e crescer na área. Você pode me encontrar também no LinkedIn: [Antônio Bernardo](https://www.linkedin.com/in/ant%C3%B4nio-bernardo/)
 
- <p>
+ <p> 
     <a href="https://www.linkedin.com/in/antônio-bernardo/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
-    <a href="mailto:antoniobernardo132005@gmail.com" target="_blank">
+   <a href="mailto:antoniobernardo132005@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a>
-
 </p>
 
 ---
