@@ -4,21 +4,7 @@
 
 Me chamo Antônio Bernardo, tenho 19 anos e sou estudante  de Análise e Desenvolvimento de Sistemas na UniSenac. Estou em fase de aprendizado e cada dia mais interessado pelo universo da tecnologia. Gosto de explorar novas linguagens, ferramentas e entender como tudo funciona por trás dos sistemas que usamos no dia a dia. Estou construindo minha jornada passo a passo, sempre buscando aprender, evoluir e crescer na área. Você pode me encontrar também no LinkedIn: [Antônio Bernardo](https://www.linkedin.com/in/ant%C3%B4nio-bernardo/)
 
-<p align="left">
-    <a href="https://github.com/abswing?tab=stars">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/abswing?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/abswing?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/abswing?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+ <p>
     <a href="https://www.linkedin.com/in/antônio-bernardo/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
