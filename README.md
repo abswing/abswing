@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Antônio Bernardo, tenho 20 anos e sou estudante  de Análise e Desenvolvimento de Sistemas na UniSenac. Estou em fase de aprendizado e cada dia mais interessado pelo universo da tecnologia. Gosto de explorar novas linguagens, ferramentas e entender como tudo funciona por trás dos sistemas que usamos no dia a dia. Estou construindo minha jornada passo a passo, sempre buscando aprender, evoluir e crescer na área. Você pode me encontrar também no LinkedIn: [Antônio Bernardo](https://www.linkedin.com/in/ant%C3%B4nio-bernardo/)
+Me chamo Antônio Bernardo. [Antônio Bernardo](https://www.linkedin.com/in/ant%C3%B4nio-bernardo/)
 
  <p> 
     <a href="https://www.linkedin.com/in/antônio-bernardo/" target="_blank">
